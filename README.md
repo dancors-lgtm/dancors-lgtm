@@ -119,4 +119,8 @@
 
 *🇧🇷 Sempre aprendendo. / 🇬🇧 Always learning.* `█`
 
+<br>
+
+<img src="assets/seed-quote.jpg" alt="The gap between the work and the reward is long and silent. It looks insane from the outside. You're not failing — you're just early. — Dan.Corsaco" width="480">
+
 </div>
